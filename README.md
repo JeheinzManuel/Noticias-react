@@ -1,7 +1,7 @@
 # Noticias-react
 Un pequeño proyecto echo con React usando la API de newsapi el cual permite ver las noticias en tiempo real
 
-Puedes ver una demostración del proyecto en este enlace: https://laughing-allen-c4707f.netlify.com/
+Puedes ver una demostración del proyecto en este enlace: https://react-noticias.netlify.com
 
 Requisitos: El Unico Requisito para ejecutar el proyecto es Tener Instalado Node.js.
 
